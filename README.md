@@ -6,11 +6,7 @@ I have 9 years of experience in Content, Marketing and Growth Strategy, and one 
 
 I am based in Lagos, Nigeria, but I am very open to remote roles across the globe.
 
-My work includes:
-
-### Grill Brothers: A simple restaurant app built with React and uses Redux for products and cart management
-
-You can view it [here](https://github.com/mayowana/grill-brothers/)
+Check out the repos below for things that I have built. 
 <!--
 **mayowana/mayowana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
