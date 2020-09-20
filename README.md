@@ -8,7 +8,9 @@ I am based in Lagos, Nigeria, but I am very open to remote roles across the glob
 
 Projects I have built include
 
-### IP TRACKER (https://github.com/mayowana/ip-tracker)
+### IP TRACKER
+
+A simple IP address and ISP finder. [Click to go to repo](https://github.com/mayowana/ip-tracker)
 <!--
 **mayowana/mayowana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
