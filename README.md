@@ -10,15 +10,15 @@ Projects I have built include
 
 ### IP TRACKER
 
-A simple IP address and ISP finder. [Click to go to repo](https://github.com/mayowana/ip-tracker)
+A simple IP address and ISP finder. [Click to go to repo](https://github.com/mayowana/ip-tracker) or [Click to view project](https://ip-tracker-ruby.vercel.app/)
 
 ### MEAL TABLE
 
-A recipe search tool using an API. [Click to go to repo](https://github.com/mayowana/mealtable)
+A recipe search tool using an API. [Click to go to repo](https://github.com/mayowana/mealtable) or [Click to view project](https://mealtable.vercel.app/)
 
 ### My personal website
 
-A simple website highlighting my professional experience [Click to go to repo](https://github.com/mayowana/personalpage)
+A simple website highlighting my professional Marketing experience [Click to go to repo](https://github.com/mayowana/personalpage) or [Click to view project](http://www.mayowageorge.com)
 <!--
 **mayowana/mayowana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
