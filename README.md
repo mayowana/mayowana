@@ -1,3 +1,9 @@
+<h3 align="center">👋 Hi there! I'm Oluwamayowa George</h3>
+<p align="center">
+  <a href="https://www.mayowageorge.com">Website</a> •
+  <a href="https://twitter.com/wana____">Twitter</a>
+</p>
+
 # Hi there 👋
 
 ## My name is Oluwamayowa George and I'm a frontend developer/ UX Engineer. 
