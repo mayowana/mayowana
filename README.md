@@ -4,25 +4,33 @@
   <a href="https://twitter.com/wana____">Twitter</a>
 </p>
 
-# Hi there 👋
+<hr>
 
-## My name is Oluwamayowa George and I'm a frontend developer/ UX Engineer. 
+I am junior front-end developer looking for remote roles at startups and high-growth companies. I have one year of front-end development experience and I am looking for roles where I can learn and improve my skillset. 
 
-🤝 I am junior front-end developer looking for remote roles at startups and high-growth companies. 
+I work with HTML, CSS, JavaScript, React and SQL. 
 
-Projects I have built include
+Outside of engineering, I also have 10 years of growth marketing experience and I enjoy listening to music and playing video games. 
+
+<hr>
+
+Projects I have built for my portfolio include
 
 ### IP TRACKER
 
-A simple IP address and ISP finder. [Click to go to repo](https://github.com/mayowana/ip-tracker) or [Click to view project](https://ip-tracker-ruby.vercel.app/)
+A simple IP address and ISP finder built in React and using Axios for API call management. [Click to go to repo](https://github.com/mayowana/ip-tracker) or [Click to view project](https://ip-tracker-ruby.vercel.app/)
 
 ### MEAL TABLE
 
-A recipe search tool using an API. [Click to go to repo](https://github.com/mayowana/mealtable) or [Click to view project](https://mealtable.vercel.app/)
+A recipe search tool built in React using an API and featuring a custom built pagination system . [Click to go to repo](https://github.com/mayowana/mealtable) or [Click to view project](https://mealtable.vercel.app/)
 
 ### My personal website
 
-A simple website highlighting my professional Marketing experience [Click to go to repo](https://github.com/mayowana/personalpage) or [Click to view project](http://www.mayowageorge.com)
+A simple website highlighting my professional Marketing experience built in React [Click to go to repo](https://github.com/mayowana/personalpage) or [Click to view project](http://www.mayowageorge.com)
+
+### CHO CHO
+
+A social media platform built in React using Redux for state management and Firebase for authentication. [Click to go to repo](https://github.com/mayowana/social-platform) or [Click to view project](https://social-app-3cb8b.web.app/)
 <!--
 **mayowana/mayowana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
