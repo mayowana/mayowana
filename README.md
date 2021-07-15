@@ -2,9 +2,7 @@
 
 ## My name is Oluwamayowa George and I'm a frontend developer/ UX Engineer. 
 
-I have 10 years of experience in Content, Marketing and Growth Strategy, and one year of front-end development working with React.
-
-I am based in Lagos, Nigeria, but I am very open to remote roles across the globe.
+🤝 I am junior front-end developer looking for remote roles at startups and high-growth companies. 
 
 Projects I have built include
 
