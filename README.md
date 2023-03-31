@@ -6,8 +6,6 @@
 
 <hr>
 
-I am junior front-end developer looking for remote roles at startups and high-growth companies. I have one year of front-end development experience and I am looking for roles where I can learn and improve my skillset. 
-
 I work with HTML, CSS, JavaScript, React and SQL. 
 
 Outside of engineering, I also have 10 years of growth marketing experience and I enjoy listening to music and playing video games. 
